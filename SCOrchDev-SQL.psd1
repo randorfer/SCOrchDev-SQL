@@ -12,7 +12,7 @@
 RootModule = '.\SCOrchDev-SQL.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.5'
+ModuleVersion = '2.0.0'
 
 # ID used to uniquely identify this module
 GUID = '28c4f89c-5eee-5127-ab07-3511d46b8b11'
@@ -81,7 +81,7 @@ AliasesToExport = '*'
 ModuleList = @('SCOrchDev-SQL')
 
 # List of all files packaged with this module
-FileList = @('SCOrchDev-SQL.psd1','SCOrchDev-SQL.psm1')
+FileList = @('SCOrchDev-SQL.psd1','SCOrchDev-SQL.psm1', 'SCOrchDev-SQL.tests.ps1', 'LICENSE', 'README.md')
 
 # Private data to pass to the module specified in RootModule/ModuleToProcess
 # PrivateData = ''
