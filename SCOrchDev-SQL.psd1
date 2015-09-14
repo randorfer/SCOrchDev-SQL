@@ -27,7 +27,7 @@ CompanyName = 'ScorchDev'
 Copyright = '(c) 2014 ScorchDev. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'A module for invoking sql queries'
 
 # Minimum version of the Windows PowerShell engine required by this module
 PowerShellVersion = '2.0'
