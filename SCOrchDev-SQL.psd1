@@ -12,7 +12,7 @@
 RootModule = '.\SCOrchDev-SQL.psm1'
 
 # Version number of this module.
-ModuleVersion = '2.0.0'
+ModuleVersion = '2.0.1'
 
 # ID used to uniquely identify this module
 GUID = '28c4f89c-5eee-5127-ab07-3511d46b8b11'
