@@ -69,13 +69,13 @@ function Invoke-SqlQuery
                 ParameterSetName = 'Credential'
         )]
         [pscredential]
-        $Credential,
+        $Credential = $Null,
 
         [Parameter(
                 Mandatory = $False,
                 ParameterSetName = 'Credential'
         )]
-        [pscredential]
+        [string]
         $Computer = 'localhost'
     )
     
